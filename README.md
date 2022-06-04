@@ -6,3 +6,6 @@
 Netlify LInk
 ```
 [Netlify Link](https://chhattoo.netlify.app/)
+
+## Vercel
+[Vercel Link](https://fakeuser-eight.vercel.app/)
